@@ -1,16 +1,10 @@
-### 自己紹介
+#### 自己紹介
 
-<table>
-    <thead>
-        <tr>
-            <th colspan="2">The table header</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>The table body</td>
-            <td>with two columns</td>
-        </tr>
-    </tbody>
-</table>
+## 簡単なキャリア
+|  期間  |  経歴  |
+| ---- | ---- |
+|  18/7  |  ネパール連邦民主共和国　トリプバン大学　入学  |
+|  19/7  |  ネパール連邦民主共和国　トリプバン大学　休学  |
+|  20/1  |  42tokyo第１回piscine　参加  |
+|  20/4-現在   |  DMMWEBCAMPと独学  |
 
