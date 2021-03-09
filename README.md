@@ -1,4 +1,4 @@
-### Hi there 👋
+### 自己紹介
 
 <!--
 **ashish0248/ashish0248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
