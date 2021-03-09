@@ -8,3 +8,9 @@
 |  20/1  |　　42 Tokyo 第１回 piscine　参加　　|
 |  20/4-現在|　　DMMWEBCAMPと独学　　|
 
+
+## 個人開発の成果物  
+**[Haat_Bazar](https://github.com/ashish0248/Haat_Bazar)**  
+```
+書類の作成やpdf化,チャットなどの機能も備えた　B to Bの卸売専用サイト
+テーマは個人や小規模の『作り手』と『お店』の双方が安心して交渉し、受注や発注ができるサイトです
