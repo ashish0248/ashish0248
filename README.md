@@ -13,7 +13,7 @@
 ## 個人開発の成果物  
 **[Haat_Bazar](https://github.com/ashish0248/Haat_Bazar)** 
 
-<img width="500px" src="https://user-images.githubusercontent.com/61741711/86092838-0909b980-bae9-11ea-977e-10ffcc9386ac.png">
+<img width="500px" href="https://github.com/ashish0248/Haat_Bazar" src="https://user-images.githubusercontent.com/61741711/86092838-0909b980-bae9-11ea-977e-10ffcc9386ac.png">
 
 ```
 書類の作成やpdf化,チャットなどの機能も備えた　B to Bの卸売専用サイト
